@@ -1,6 +1,6 @@
 # Using Deep Learning to Predict Human Decisions, and Cognitive Models to Explain Deep Learning Models
-### By Matan Fintz (*), Margarita Osadchy , Uri Hertz
-(*) Part of Matan Fintz's Thesis
+### By Matan Fintz *, Margarita Osadchy , Uri Hertz
+
 
 [link to the paper] https://www.biorxiv.org/content/10.1101/2021.01.13.426629v2
 ## 1. About
@@ -14,7 +14,7 @@ This notebook loads the results of simulation with the exploartory, reward orien
 More will be added soon.
 
 
-
+* Part of Matan Fintz's Thesis
 
 If using this repo or parts of it in any work, please provide a reference to:
 
