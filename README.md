@@ -10,6 +10,8 @@ This repo will allow the user to replicate the main experiments in the paper
   1. *Simulation_Comparisons*  
 This notebook loads the results of simulation with the exploartory, reward oriented and reward oblivious models. Once the simulation results are loaded, the user can choose a distance function of choice for an aggregated comparison plots between the models. 
 `produce_comparison_df()` takes a `dist_func` argument which can be any distance function that can take 2 vectors and return a distance (in our case, 2 arrays of size 4, as we have 4 sofmax values per prediction). In this notebook the distance metric, for example, is the symmetric KL distance.
+  2.  *preprocess*
+ The preprocessing of the raw data can be reproduced using this notebook, along with some exploration of the original data. This notebook is also used to create sequence is different sizes for later experiments.
 
 More will be added soon.
 
