@@ -13,7 +13,7 @@ This notebook loads the results of simulation with the exploartory, reward orien
   2.  *preprocess*    
  The preprocessing of the raw data can be reproduced using this notebook, along with some exploration of the original data. This notebook is also used to create sequence is different sizes for later experiments.
   3. *Qlearning_model*
-  This notebook contains the Qlearning model (Reward Oriented model) - from optimization steps (and simulation) to recreating the plots. The plots are saved in svg format and later being edited.
+  This notebook contains the Qlearning model (Reward Oriented model) - from optimization steps (and task simulation for each participant using the optimized values) to recreating the plots. The plots are saved in svg format and later being edited.
 
 More will be added soon.
 
